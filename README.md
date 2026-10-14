@@ -84,6 +84,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — Guides agents through software design, implementation, release checks, and documentation workflows. `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
 - [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) — Routes a task to one accountable specialist skill and supplies that specialist's skill files. `Type: Collection` · `Platforms: Cross-platform`
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — A multi-domain collection covering agent orchestration, code review, evaluation, product, design, and growth workflows. `Type: Collection` · `Platforms: Cross-platform`
+- [The Enso Method](https://github.com/EnsoDynamics/enso-method) — Guides coding agents through requirements, design, implementation and review while recording business assumptions with evidence and confidence. `Type: Collection` · `Platforms: Claude Code, Codex`
 
 ### Tooling & Integrations
 
