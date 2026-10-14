@@ -84,6 +84,7 @@
 - [Slashskills](https://github.com/tushaarmehtaa/tushar-skills) — 引導 Agent 執行軟體設計、實作、發布檢查與文件撰寫工作流程。 `Type: Collection` · `Platforms: Codex, Claude Code, Cursor`
 - [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) — 將任務指派給一個可問責的 specialist skill，並提供該 specialist 的 skill 檔案。 `Type: Collection` · `Platforms: Cross-platform`
 - [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — 涵蓋 Agent 編排、程式碼審查、評估、產品、設計與成長工作流程的多領域集合。 `Type: Collection` · `Platforms: Cross-platform`
+- [The Enso Method](https://github.com/EnsoDynamics/enso-method) — 引導程式設計代理執行需求、設計、實作與審查，並記錄業務假設、佐證與信心程度。 `Type: Collection` · `Platforms: Claude Code, Codex`
 
 ### Tooling & Integrations
 
